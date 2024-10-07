@@ -33,4 +33,4 @@ This is a **Flappy Bird** clone made with Unity, for the subject of Mobile Devic
 ## Contributors
 
 - **[Marc Gallardo](https://github.com/Marchusky)** - Game Logic & Audio Integration
-- **[Kaede Sato](https://github.com/janesmith)** - UI Design & Score Management
+- **[Kaede Sato](https://github.com/KelptheWriter)** - UI Design & Score Management
